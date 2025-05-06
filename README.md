@@ -112,7 +112,6 @@
 
 ## 🎯 **Current Focus**
 <div align="center">
-  <img src="https://img.shields.io/badge/Working%20on-Shoes%20E-Commerce%20Website-blue" alt="Current Project" />
   <img src="https://img.shields.io/badge/Learning-Python-green" alt="Learning" />
 </div>
 
