@@ -12,9 +12,9 @@
 ---
 
 ## 👨‍💻 **About Me** - 🎓 **B.Sc in IT** with a strong foundation in Computer Science.  
-- 👨‍🏫 1-year **Teaching Experience** in Commerce Mathematics for 11th and 12th grade[cite: 7].  
-- 💡 Passionate about creating visually appealing and user-friendly websites[cite: 4, 5].
-- 🛠️  Fresher web developer with a solid understanding of front-end technologies[cite: 4].
+- 👨‍🏫 1-year **Teaching Experience** in Commerce Mathematics for 11th and 12th grade.  
+- 💡 Passionate about creating visually appealing and user-friendly websites.
+- 🛠️  Fresher web developer with a solid understanding of front-end technologies.
 - 📚 Love **chess & books**—always thinking strategically.  
 
 ---
@@ -80,25 +80,25 @@
 
 ## 💼 **Projects**
 
-- Shoe Store Website [cite: 3]
-- Clothing Website (Sell) [cite: 3]
-- Vehicle Website [cite: 3]
-- Fitness Website [cite: 3]
-- Free Fire Website [cite: 3]
+- Shoe Store Website.
+- Clothing Website.
+- Vehicle Website.
+- Fitness Website.
+- Free Fire Website.
 
 ---
 
 ## 🎓 **Education**
 
-- **Bachelor of Science in Information Technology** from SKC Degree College Vasai West (401202)[cite: 10].
+- **Bachelor of Science in Information Technology** from SKC Degree College Vasai West (401202).
   - Semester 1: 8.40
   - Semester 2: 8.10
   - Semester 3: 9.00
   - Semester 4: 9.10
   - Semester 5: 9.10
-- **Higher Secondary State Board (H.S.C)** from Holy Family Convent High School & Jr College, Vasai East (401208) - 54.17% (Computer Science)[cite: 9, 10].
-- **Secondary State Board (S.S.C)** from Z.P Kakani Vidyalaya & Jr College, Malegaon (423203) - 75.40%[cite: 8, 9].
-- **Certifications:** Diploma in MS Office, Diploma in Web Programming[cite: 3].
+- **Higher Secondary State Board (H.S.C)** from Holy Family Convent High School & Jr College, Vasai East (401208) - 54.17% (Computer Science).
+- **Secondary State Board (S.S.C)** from Z.P Kakani Vidyalaya & Jr College, Malegaon (423203) - 75.40%
+- **Certifications:** Diploma in MS Office, Diploma in Web Programming.
 
 ---
 
